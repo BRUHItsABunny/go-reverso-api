@@ -1,0 +1,27 @@
+package constants
+
+const (
+	VoiceArabic               = "Mehdi22k"
+	VoiceEnglishMale          = "Ryan22k"
+	VoiceEnglishFemale        = "Heather22k"
+	VoiceEnglishUKMale        = "Peter22k"
+	VoiceEnglishUKFemale      = "Rachel22k"
+	VoiceFrenchMale           = "Bruno22k"
+	VoiceFrenchFemale         = "Claire22k"
+	VoiceFrenchCanadianFemale = "Louise22k"
+	VoiceGerman               = "Klaus22k"
+	VoiceItalianMale          = "Vittorio22k"
+	VoiceItalianFemale        = "Chiara22k"
+	VoicePortuguese           = "Celia22k"
+	VoicePortugueseBrazilian  = "Marcia22k"
+	VoiceSpanishMale          = "Antonio22k"
+	VoiceSpanishFemale        = "Maria22k"
+	VoiceDutchName            = "Femke22k"
+	VoiceRussian              = "Alyona22k"
+	VoicePolish               = "Ania22k"
+	VoiceJapanese             = "Sakura22k"
+	VoiceTurkish              = "Ipek22k"
+	VoiceHebrew               = "he-IL-Asaf"
+	VoiceRomanian             = "ro-RO-Andrei"
+	VoiceChinese              = "Lulu22k"
+)

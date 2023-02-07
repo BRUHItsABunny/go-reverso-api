@@ -15,12 +15,6 @@ You can install this library by using:
 ```
 go get github.com/BRUHItsABunny/go-reverso-api
 ```
-This library depends on my HTTP client abstraction (also not production ready yet) :
-```
-go get github.com/BRUHItsABunny/gOkHttp
-```
-
-You can find examples in the `main.go` inside the `_examples` directory.
 
 These API's are free:
 * Reverso Translate
@@ -28,5 +22,7 @@ These API's are free:
 * Reverso Synonyms
 * Reverso AutoComplete/Suggestions
 * Reverso Context
+* Reverso Rephrase
+* Reverso Conjugator
 
 Library provided as is, usage is at own risk and you will solely be responsible for whatever you do
